@@ -14,3 +14,4 @@ TARGET_OTA_ASSERT_DEVICE := ahannah
 
 # Kernel
 TARGET_KERNEL_CONFIG := hannah_defconfig
+TARGET_KERNEL_RECOVERY_CONFIG := hannah_recovery_defconfig
